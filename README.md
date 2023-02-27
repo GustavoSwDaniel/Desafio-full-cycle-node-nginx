@@ -1,10 +1,10 @@
 # Desafio-full-cycle-node-nginx
 
-Desafio proposto no curso Full Cycle de docker.
+Desafio proposto no curso Full Cycle curso de de docker.
 
-O desafio consiste em apresentar uma mensagem na tela utilizando nginx com node.js.
+O desafio é criar um aplicação nodejs e realizar o acesso via proxy reverso utilizando o nginx
 
-Quando uma chamada for feita a aplicação, esta deverá salvar um registro no bando de dados (MySQL). Em seguida, a página deverá apresentar a mensagem Full Cycle Rocks!, logo abaixo uma lista com os registros do banco.
+Quando uma chamada for feita a aplicação, esta deverá salvar um registro no bando de dados (MySQL). Em seguida, a página deverá apresentar a mensagem Full Cycle Rocks!, em abaixo da mensagem uma lista com os registros do banco.
 
 O Desfaio devera ser feito node mas será acessada pelo nginx através de um proxy reverso
 
